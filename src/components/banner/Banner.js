@@ -6,7 +6,7 @@ import Typewriter from "typewriter-effect/dist/core";
 import Arrow from "../../assets/img/arrow.png";
 import "./banner.css";
 import { EnvelopeFill } from "react-bootstrap-icons";
-import Cv from "../../assets/img/cvtulus.pdf";
+import Cv from "../../assets/img/Tulus_Setiawan_CV.pdf";
 
 export const Banner = () => {
   const typewriterRef = useRef(null);
